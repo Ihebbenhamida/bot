@@ -684,4 +684,4 @@ async def nickall(ctx, rename_to):
                 return
 
 keep_alive()
-bot.run('NjgzMzk4Mjk2NjE3NjE1NDI2.Xq515w.F1iAQVV3ixfYrW1gfEaahPJ-lZw', bot=False)
+bot.run('suck my dick bitchass nigga', bot=False)
